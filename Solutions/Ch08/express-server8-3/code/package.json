@@ -7,8 +7,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": ["example"],
- 
+  "keywords": [
+    "example"
+  ],
   "license": "WTFPL",
   "dependencies": {
     "bluebird": "^3.5.0",
@@ -20,7 +21,7 @@
     "express-promise-router": "^1.1.1",
     "express-session": "^1.15.1",
     "faker": "^4.1.0",
-    "knex": "^0.12.8",
+    "knex": "^0.16.5",
     "moment": "^2.18.1",
     "pg": "^6.1.5",
     "pick-item": "^1.0.4",
